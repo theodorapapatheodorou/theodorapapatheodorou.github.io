@@ -10,7 +10,6 @@ citation: "Papatheodorou, T. (2025) Locating the educative power of relational
   address at the RCEN Conference. Dublin, Ireland"
 slidesurl: /files/Relational pedagogy in ECEC (PPP by TP).pdf
 collection: talks
-permalink: /talks/{year}-{month}-{day}-{primary}.md
 ---
 **Locating the educative power of relational pedagogy: what can we learn from the field of early childhood?**
 
