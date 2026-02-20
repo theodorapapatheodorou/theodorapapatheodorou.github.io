@@ -1,0 +1,97 @@
+# .pages.yml
+media:
+  - name: uploads
+    label: Uploads (PDF/PPTX/etc.)
+    input: files
+    output: /files
+    categories: [document, image]  # docs include pdf/doc/ppt/pptx + images  [oai_citation:8‡Pages CMS](https://pagescms.org/docs/configuration/)
+
+content:
+  # Edit key site pages stored in _pages/
+  - name: pages
+    label: Pages
+    type: collection
+    path: _pages
+    view:
+      primary: title
+      fields: [title, permalink]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: permalink
+        label: Permalink
+        type: string
+        required: true
+      - name: author_profile
+        label: Show author profile sidebar
+        type: boolean
+        default: true
+      - name: body
+        label: Content
+        type: rich-text
+        # 'body' is the reserved field name for main content in frontmatter files  [oai_citation:9‡Pages CMS](https://pagescms.org/docs/configuration/)
+
+  # Blog posts in _posts/
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: _posts
+    view:
+      primary: title
+      fields: [title, date, categories]
+      sort: [date, title]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: categories
+        label: Categories
+        type: string
+        list: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: body
+        label: Post content
+        type: rich-text
+
+  # Publications in _publications/
+  - name: publications
+    label: Publications
+    type: collection
+    path: _publications
+    view:
+      primary: title
+      fields: [title, date, venue]
+      sort: [date, title]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+      - name: venue
+        label: Venue / Journal
+        type: string
+      - name: paperurl
+        label: DOI / Paper URL
+        type: string
+      - name: citation
+        label: Citation
+        type: text
+      - name: slides
+        label: Slides (PDF/PPTX)
+        type: file
+      - name: body
+        label: Notes / abstract (optional)
+        type: rich-text
