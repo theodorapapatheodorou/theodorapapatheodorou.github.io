@@ -1,7 +1,7 @@
 ---
 title: "Locating the educative power of relational pedagogy: what can we learn
   from the field of early childhood?"
-type: talks
+type: Talk
 date: 2025-06-06
 venue: RCEN 2025 conference
 location: Dublin, Ireland
