@@ -140,6 +140,35 @@ content:
         label: Collection
         default: talks
         hidden: true
+
+
+  # Conferences in _talks/
+  - name: portfolio
+    label: Projects
+    type: collection
+    path: _portfolio
+    view:
+      primary: title
+      fields: [title, date]
+      sort: [date, title]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: excerpt
+        label: excerpt
+        type: string
+        required: true
+      - name: body
+        label: Notes / abstract (optional)
+        type: rich-text
+      - name: collection
+        label: Collection
+        default: portfolio
+        hidden: true
+
+
 settings:
   content:
     merge: true
