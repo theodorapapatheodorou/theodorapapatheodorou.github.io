@@ -1,7 +1,7 @@
 ---
 title: Home-based support for young autistic children. Overview of a program
   codesigned with researchers, child therapists and caregivers.
-category: articles
+category: chapters
 date: 2024-09-12
 paperurl: https://shop.elsevier.com/books/understanding-autism/papaneophytou/978-0-443-27366-7
 citation: Papatheodorou, T. And Prescott, A. (2024) Home-based support for young
