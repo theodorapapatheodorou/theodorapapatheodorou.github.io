@@ -62,7 +62,7 @@ content:
       - name: permalink
         label: Permalink
         type: string
-        default: &filename
+        default: { filename }
         hidden: true
       - name: body
         label: Post content
