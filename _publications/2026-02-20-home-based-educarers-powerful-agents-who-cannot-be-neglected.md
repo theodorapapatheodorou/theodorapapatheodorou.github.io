@@ -10,5 +10,5 @@ citation: |-
   neglected!’, Norland Educare Research Journal, 1(1), article number
   1. Available at:
   https://doi.org/10.60512/repository.norland.ac.uk.00000021
-slides: /files/home-based educarers - powerful agents who cannot be ignored.pdf
+slidesurl: /files/home-based educarers - powerful agents who cannot be ignored.pdf
 ---
