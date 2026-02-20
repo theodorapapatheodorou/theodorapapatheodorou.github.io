@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr Theodora Papatheodorou's Website"
+title                    : "Dr Theodora Papatheodorou"
 title_separator          : "-"
 name                     : &name "Dr Theodora Papatheodorou"
 description              : &description "Dr Theodora Papatheodorou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
