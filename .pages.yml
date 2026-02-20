@@ -87,7 +87,7 @@ content:
         type: select
         required: true
         options:
-          values: [books, chapters, conferences]
+          values: [books, chapters, articles, conferences]
       - name: date
         label: Date
         type: date
