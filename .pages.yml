@@ -154,7 +154,7 @@ content:
         type: rich-text
       - name: collection
         label: Collection
-        default: talks
+        default: Talk
         type: string
         hidden: true
 
