@@ -1,6 +1,6 @@
 ---
 title: "Home-based educarers: powerful agents who cannot be neglected!"
-category: chapters
+category: articles
 date: 2023-05-31
 venue: Norland Educare Research Journal
 paperurl: https://www.norland.ac.uk/journal/21-editorial-home-based-educarers-powerful-agents-who-cannot-be-neglected/
@@ -12,4 +12,5 @@ citation: >-
   Available at:
 
   https://doi.org/10.60512/repository.norland.ac.uk.00000021
+collection: publications
 ---
