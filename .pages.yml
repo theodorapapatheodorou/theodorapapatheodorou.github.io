@@ -70,8 +70,8 @@ content:
     path: _publications
     view:
       primary: title
-      fields: [title, date, venue]
-      sort: [date, title]
+      fields: [title, date, category]
+      sort: [date, title, category]
     fields:
       - name: title
         label: Title
