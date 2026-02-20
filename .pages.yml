@@ -95,7 +95,7 @@ content:
       - name: citation
         label: Citation
         type: text
-      - name: slides
+      - name: slidesurl
         label: Slides (PDF/PPTX)
         type: file
       - name: body
