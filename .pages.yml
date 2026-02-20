@@ -95,3 +95,6 @@ content:
       - name: body
         label: Notes / abstract (optional)
         type: rich-text
+settings:
+  content:
+    merge: true
