@@ -148,15 +148,15 @@ content:
         hidden: true
 
 
-  # Conferences in _talks/
+  # Projects in _portfolio/
   - name: portfolio
     label: Projects
     type: collection
     path: _portfolio
     view:
       primary: title
-      fields: [title, date]
-      sort: [date, title]
+      fields: [title]
+      sort: [title]
     fields:
       - name: title
         label: Title
