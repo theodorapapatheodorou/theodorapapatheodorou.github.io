@@ -1,7 +1,7 @@
 ---
 title: "Monitoring and evaluation of an early childhood development programme:
   Implications for leadership and management"
-category: chapters
+category: articles
 date: 2014-10-28
 venue: Management in Education
 paperurl: https://journals.sagepub.com/doi/abs/10.1177/0892020614550465
@@ -10,6 +10,7 @@ citation: "Hodgson, S., Papatheodorou, T., & James, M. (2014). Monitoring and
   leadership and management: Implications for leadership and management.
   Management in Education, 28(4), 144-148.
   https://doi.org/10.1177/0892020614550465 (Original work published 2014)"
+collection: publications
 ---
 ## Abstract
 
