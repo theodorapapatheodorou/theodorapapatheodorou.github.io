@@ -1,7 +1,7 @@
 ---
 title: Home-based support for young autistic children. Overview of a program
   codesigned with researchers, child therapists and caregivers.
-category: chapters
+category: articles
 date: 2024-09-12
 paperurl: https://shop.elsevier.com/books/understanding-autism/papaneophytou/978-0-443-27366-7
 citation: Papatheodorou, T. And Prescott, A. (2024) Home-based support for young
@@ -9,6 +9,7 @@ citation: Papatheodorou, T. And Prescott, A. (2024) Home-based support for young
   therapists and caregivers. In  N. L. Papaneophytou, and U.N. Das (eds)
   Understanding Autism. Perspectives, Assessment, Interventions and the Journey
   Towards  Inclusion. London:Elsevier
+collection: publications
 ---
 This chapter discusses the development and underlying conceptual framework of the ‘First Steps – An Early Autism Family Support Programme’ (hereafter referred to as First Steps or the programme) with reference to a case study. The First Steps conceptual framework draws on understandings of sensorimotor and affective reciprocity, the impact of this reciprocity on autistic child and caregiver interactions, and how these interactions – as early experiences – shape early brain development and architecture. In First Steps, the child is viewed as a potent, intentional and goal-oriented individual, inherently wired to seek connection and trusting relationships with others.
 
