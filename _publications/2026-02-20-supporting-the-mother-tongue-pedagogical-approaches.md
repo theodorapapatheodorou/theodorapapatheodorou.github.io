@@ -1,6 +1,6 @@
 ---
 title: "Supporting the mother tongue: pedagogical approaches"
-category: chapters
+category: articles
 date: 2007-07-18
 venue: Early Child Development and Care,
 paperurl: https://www.tandfonline.com/doi/abs/10.1080/03004430701379231
@@ -8,6 +8,7 @@ citation: >
   Papatheodorou, T. (2007). Supporting the mother tongue: pedagogical
   approaches. Early Child Development and Care, 177(6–7), 751–765.
   https://doi.org/10.1080/03004430701379231
+collection: publications
 ---
 Abstract
 
