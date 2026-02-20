@@ -131,9 +131,9 @@ content:
         label: Type
         type: select
         required: true
-        default: talks
+        default: Talk
         options:
-          values: [talks]
+          values: [Talk]
       - name: date
         label: Date
         type: date
@@ -154,7 +154,7 @@ content:
         type: rich-text
       - name: collection
         label: Collection
-        default: Talk
+        default: talks
         type: string
         hidden: true
 
