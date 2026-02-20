@@ -101,6 +101,11 @@ content:
       - name: body
         label: Notes / abstract (optional)
         type: rich-text
+      - name: collection
+        label: Collection
+        type: string
+        default: publications
+        hidden: true
   
 
   # Conferences in _talks/
@@ -139,6 +144,7 @@ content:
       - name: collection
         label: Collection
         default: talks
+        type: string
         hidden: true
 
 
@@ -165,6 +171,7 @@ content:
         type: rich-text
       - name: collection
         label: Collection
+        type: string
         default: portfolio
         hidden: true
 
