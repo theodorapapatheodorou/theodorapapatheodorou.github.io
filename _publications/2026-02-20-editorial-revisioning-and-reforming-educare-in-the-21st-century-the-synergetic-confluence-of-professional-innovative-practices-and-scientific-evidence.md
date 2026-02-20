@@ -11,5 +11,4 @@ citation: "Papatheodorou, T. (2024) ‘Editorial – Revisioning and reforming
   innovative practices and scientific evidence’, Norland Educare Research
   Journal, 2(1), article number 2. Available at:
   https://doi.org/10.60512/repository.norland.ac.uk.00000031"
-slidesurl: /files/Revisioning and reforming educare in the 21 century (2024).pdf
 ---
