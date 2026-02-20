@@ -18,5 +18,10 @@ var addressPoints = [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
+  ],
+  [
+    "Locating the educative power of relational pedagogy: what can we learn from the field of early childhood?<br />RCEN 2025 conference; Dublin, Ireland",
+    53.3493795,
+    -6.2605593
   ]
 ];
