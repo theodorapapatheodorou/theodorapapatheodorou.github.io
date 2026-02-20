@@ -77,6 +77,12 @@ content:
         label: Title
         type: string
         required: true
+      - name: category
+        label: Category
+        type: string
+        required: true
+        options:
+          values: [books, manuscripts, conferences]
       - name: date
         label: Date
         type: date
