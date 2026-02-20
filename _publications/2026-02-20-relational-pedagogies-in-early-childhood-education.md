@@ -1,0 +1,6 @@
+---
+title: Relational Pedagogies in Early Childhood Education
+category: chapters
+date: 2023-05-26
+paperurl: https://www.oxfordbibliographies.com/display/document/obo-9780199756810/obo-9780199756810-0301.xml?rskey=SA2Qvr&result=1&q=papatheodorou%2C+t#firstMatch
+---
