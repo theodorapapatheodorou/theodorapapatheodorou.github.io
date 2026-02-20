@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Empowering Educators and families through research-informed pedagogy
+title: Empowering Educators and Families through Research-Informed Pedagogy
 author_profile: true
 redirect_from:
   - /about/
