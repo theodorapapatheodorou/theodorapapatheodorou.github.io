@@ -181,11 +181,6 @@ content:
         type: string
         default: portfolio
         hidden: true
-      - name: permalink
-        label: Permalink
-        type: string
-        default: &filename
-        hidden: true
 
 
 settings:
