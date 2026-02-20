@@ -79,7 +79,7 @@ content:
         required: true
       - name: category
         label: Category
-        type: string
+        type: select
         required: true
         options:
           values: [books, manuscripts, conferences]
