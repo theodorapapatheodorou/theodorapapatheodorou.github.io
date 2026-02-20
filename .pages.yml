@@ -59,11 +59,6 @@ content:
         label: Tags
         type: string
         list: true
-      - name: permalink
-        label: Permalink
-        type: string
-        default: /posts/{year}-{month}-{day}-{primary}.md
-        hidden: true
       - name: body
         label: Post content
         type: rich-text
@@ -157,11 +152,6 @@ content:
         default: talks
         type: string
         hidden: true
-      - name: permalink
-        label: Permalink
-        type: string
-        default: "/talks/{year}-{month}-{day}-{primary}.md"
-        hidden: true
 
 
   # Projects in _portfolio/
@@ -179,16 +169,22 @@ content:
         type: string
         required: true
       - name: excerpt
-        label: excerpt
+        label: Excerpt
         type: string
         required: true
       - name: body
-        label: Notes / abstract (optional)
+        label: Main body
         type: rich-text
+        required: true
       - name: collection
         label: Collection
         type: string
         default: portfolio
+        hidden: true
+      - name: permalink
+        label: Permalink
+        type: string
+        default: "/talks/{year}-{month}-{day}-{primary}.md"
         hidden: true
 
 
