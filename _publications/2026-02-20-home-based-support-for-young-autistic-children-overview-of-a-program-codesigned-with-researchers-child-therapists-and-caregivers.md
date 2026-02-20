@@ -1,0 +1,15 @@
+---
+title: Home-based support for young autistic children. Overview of a program
+  codesigned with researchers, child therapists and caregivers.
+category: chapters
+date: 2024-09-12
+paperurl: https://shop.elsevier.com/books/understanding-autism/papaneophytou/978-0-443-27366-7
+citation: Papatheodorou, T. And Prescott, A. (2024) Home-based support for young
+  autistic children. Overview of a program codesigned with researchers, child
+  therapists and caregivers. In  N. L. Papaneophytou, and U.N. Das (eds)
+  Understanding Autism. Perspectives, Assessment, Interventions and the Journey
+  Towards  Inclusion. London:Elsevier
+---
+This chapter discusses the development and underlying conceptual framework of the ‘First Steps – An Early Autism Family Support Programme’ (hereafter referred to as First Steps or the programme) with reference to a case study. The First Steps conceptual framework draws on understandings of sensorimotor and affective reciprocity, the impact of this reciprocity on autistic child and caregiver interactions, and how these interactions – as early experiences – shape early brain development and architecture. In First Steps, the child is viewed as a potent, intentional and goal-oriented individual, inherently wired to seek connection and trusting relationships with others.
+
+<p style="text-align: justify">The programme is aimed at caregivers and their young autistic children, up to four years old, and has a three-pronged purpose:</p><p style="text-align: justify">1.&nbsp;&nbsp;&nbsp;&nbsp; to assess and continuously reassess children’s and caregivers’ strengths and capacities, and associated challenges, to tailor appropriate support</p><p style="text-align: justify">2.&nbsp;&nbsp;&nbsp;&nbsp; to raise caregivers’ awareness of sensory and affective reciprocity, and its impact on their interactions with their child, and enhance their capacity to create positive interactions that are embedded in their everyday family lives</p><p style="text-align: justify">3.&nbsp;&nbsp;&nbsp;&nbsp; to raise caregivers’ awareness of the impact of their own stresses and personal history on their interactions with their autistic child and support them to address such challenges.</p><p style="text-align: justify">The programme was co-designed with researchers, child psychotherapists, paediatric occupational therapists, autism experts and caregivers of autistic children, and led by an early years expert. An initial literature review was conducted, and key findings and recommendations were explored in the light of the complexities, sensitivities, emotive nature and unpredictability experienced by the caregivers to provide a protocol for tailored support, by utilising the strengths and needs of both the child and the caregiver, in order to enact change. The case study discussed is from the pilot of the First Steps programme and provides some insights about lessons learned from its implementation.</p><p style="text-align: justify"><strong>Keywords:</strong> autism, young children, parents, caregivers, home support, programme co-design</p>
