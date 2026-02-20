@@ -143,6 +143,12 @@ content:
       - name: location
         label: Location
         type: string
+      - name: citation
+        label: Citation
+        type: text
+      - name: slidesurl
+        label: Slides (PDF/PPTX)
+        type: file
       - name: body
         label: Notes / abstract (optional)
         type: rich-text
