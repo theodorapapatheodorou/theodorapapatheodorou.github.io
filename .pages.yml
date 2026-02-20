@@ -82,7 +82,7 @@ content:
         type: select
         required: true
         options:
-          values: [books, manuscripts, conferences]
+          values: [books, chapters, conferences]
       - name: date
         label: Date
         type: date
