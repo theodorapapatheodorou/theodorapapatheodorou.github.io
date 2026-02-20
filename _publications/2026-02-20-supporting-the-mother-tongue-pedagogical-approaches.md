@@ -10,9 +10,7 @@ citation: >
   https://doi.org/10.1080/03004430701379231
 collection: publications
 ---
-Abstract
-
-This paper reports on the development and evaluation of a project to support the learning of the
+**Abstract** \- This paper reports on the development and evaluation of a project to support the learning of the
 
 mother tongue by children aged 4–8 years. The aim of the project was to: actively involve and
 
@@ -34,4 +32,4 @@ implications for pedagogical approaches and practices that might be applicable i
 
 and situations.
 
-Keywords: Mother tongue; Childhood; Culture; Pedagogical approaches
+**Keywords:** Mother tongue; Childhood; Culture; Pedagogical approaches
